@@ -1,0 +1,38 @@
+.navbar {
+  background-color: #ffb300;
+}
+
+.container {
+  padding: 0%;
+}
+
+.container-light {
+  background-color: #ffe54c;
+  padding: .5%;
+}
+
+.container-dark {
+  background-color: #c68400;
+  padding: .5%;
+}
+
+.container-secondary-dark {
+  background-color: #c43e00;
+  padding: .5%;
+  width: 100%;
+  color: #ffffff;
+}
+
+.rodape {
+  margin-top: 5%;
+  padding-top: 2%;
+  display: inline-block;
+}
+
+.rodape-coluna {
+  width: 20%;
+}
+
+.titulo {
+  text-align: center;
+}
