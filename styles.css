@@ -1,38 +1,25 @@
 .navbar {
-  background-color: #ffb300;
+  background-color: #3F51B5;
 }
 
-.container {
-  padding: 0%;
+.navbar-brand {
+  color: white !important;
 }
 
-.container-light {
-  background-color: #ffe54c;
-  padding: .5%;
+.nav-link {
+  color: white !important;
 }
 
-.container-dark {
-  background-color: #c68400;
-  padding: .5%;
+#main-div {
+  background-color: #C5CAE9;
 }
 
-.container-secondary-dark {
-  background-color: #c43e00;
-  padding: .5%;
-  width: 100%;
-  color: #ffffff;
+#footer-div {
+  background-color: #303F9F;
+  color: white
 }
 
-.rodape {
-  margin-top: 5%;
-  padding-top: 2%;
-  display: inline-block;
+.conteudo-div {
+  background-color: white;
 }
 
-.rodape-coluna {
-  width: 20%;
-}
-
-.titulo {
-  text-align: center;
-}
