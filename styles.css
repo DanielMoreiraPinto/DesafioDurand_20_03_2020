@@ -12,6 +12,7 @@
 
 #main-div {
   background-color: #C5CAE9;
+  min-height: 100vh;
 }
 
 #footer-div {
@@ -23,3 +24,6 @@
   background-color: white;
 }
 
+.link-dark {
+  color: white;
+}
